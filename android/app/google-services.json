@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "29539992337",
+    "firebase_url": "https://flash-chat-43adb.firebaseio.com",
+    "project_id": "flash-chat-43adb",
+    "storage_bucket": "flash-chat-43adb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29539992337:android:463dce4cae3b7fb63542b0",
+        "android_client_info": {
+          "package_name": "com.lorduche.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29539992337-ir5o6vl2oudhovtqesdpqdnrb8iooc4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYFGCKGw0owNT-d_0VvL1lFgN8j2dKKKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29539992337-ir5o6vl2oudhovtqesdpqdnrb8iooc4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
